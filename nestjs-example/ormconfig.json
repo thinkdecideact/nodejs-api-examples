@@ -1,0 +1,14 @@
+{
+    "type": "mysql",
+    "host": "127.0.0.1",
+    "port": "3306",
+    "username": "learn_by_examples",
+    "password": "123456",
+    "database": "learn_by_examples",
+    "charset": "UTF8_GENERAL_CI",
+    "dateStrings": true,
+    "timezone": "+08:00",
+    "synchronize": false,
+    "logging": true,
+    "entities": ["src/**/*.entity.js", "dist/**/*.entity.js"]
+}
