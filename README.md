@@ -1,11 +1,11 @@
 # Examples of how to create a json API with nestjs, express, koa or egg
 
 ## There are five examples
-[The first example is based on nestjs, typeorm and MySQL.](./nestjs-example)
-[The second example is based on express, typeorm and MySQL.](./express-typeorm-example)
-[The third example is based on express, sequelize and MySQL.](./express-example)
-[The fourth example is based on koa, sequelize and MySQL.](./koa-example)
-[The fifth example is based on egg, sequelize and MySQL.](./egg-example)
+* [The first example is based on nestjs, typeorm and MySQL.](./nestjs-example)
+* [The second example is based on express, typeorm and MySQL.](./express-typeorm-example)
+* [The third example is based on express, sequelize and MySQL.](./express-example)
+* [The fourth example is based on koa, sequelize and MySQL.](./koa-example)
+* [The fifth example is based on egg, sequelize and MySQL.](./egg-example)
 
 ## Database
 ```
